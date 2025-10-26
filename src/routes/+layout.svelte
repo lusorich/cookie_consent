@@ -12,7 +12,7 @@
 	<a
 		href="https://www.greatfrontend.com/projects?ref=challenges"
 		target="_blank"
-	rel="noopener noreferrer"
+		rel="noopener noreferrer"
 	>
 		GreatFrontEnd Projects
 	</a>. Built by
