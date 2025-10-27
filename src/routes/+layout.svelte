@@ -1,6 +1,6 @@
 <script>
+	import CookieNotification from '$lib/ui/CookieNotification/CookieNotification.svelte';
 	import '../app.css';
-	import favicon from '$lib/assets/favicon.svg';
 
 	let { children } = $props();
 </script>
@@ -24,3 +24,5 @@
 		dreamonaut
 	</a>.
 </div>
+
+<CookieNotification />
